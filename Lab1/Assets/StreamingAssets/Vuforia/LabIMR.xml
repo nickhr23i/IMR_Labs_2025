@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="caiet" size="0.230000 0.172500" />
+    <ImageTarget name="TKIY" size="0.140000 0.226835" />
+    <ImageTarget name="Frankenstein" size="0.130000 0.197568" />
+  </Tracking>
+</QCARConfig>
